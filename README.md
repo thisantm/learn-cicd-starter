@@ -1,4 +1,4 @@
-![ci.yaml test result](https://github.com/thisantm/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![code coverage badge](https://github.com/thisantm/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
